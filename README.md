@@ -7,7 +7,7 @@ This project aimed to find the best model for predicting …. You will find all 
 ---------------------------------------------------------------------------------------------------------
 
 
-I / PRESENTATION OF THE PROJECT
+## I / PRESENTATION OF THE PROJECT
 
 
 
@@ -20,13 +20,16 @@ I / PRESENTATION OF THE PROJECT
 
 +	DATASET USED : include inside the repo’ (it comes from Kaggle)
 
-+	STACK USED : Jupyter Notebook / Scikit-Learn / XGBOOST / VS Code / Git / Streamlit / Heroku
++	STACK USED : Jupyter Notebook / Scikit-Learn / Git-GitHub / Streamlit / Heroku
 
 
-+	DEPLOYMENT URL :
++	DEPLOYMENT URL : https://classification-florale.herokuapp.com/
 
 Enjoy your day ! 
 
 ---------------------------------------------------------------------------------------------------------
 
-II / Screenshoot of the app deployed
+## II / Screenshoot of the app deployed
+
+![image](https://user-images.githubusercontent.com/67790918/115117697-3b18d900-9fa0-11eb-816e-d643d9475681.png)
+
