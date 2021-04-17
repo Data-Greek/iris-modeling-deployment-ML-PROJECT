@@ -20,9 +20,9 @@ You will find all the technical informations below ⬇️
 +	PROCESS TYPE : ##End-to-End## == EDA >> DataViz >> Feature engineering >>  Model training >> Deployment (using Streamlit & Heroku)
 
 
-+	DATASET USED : include inside the repo’ (it comes from Kaggle)
++	DATASET USED : include inside the repo’ / URL -> https://www.kaggle.com/uciml/iris
 
-+	STACK USED : Jupyter Notebook / Scikit-Learn / VS Code / Git-GitHub / Streamlit / Heroku
++	STACK USED : Jupyter Notebook / Scikit-Learn / Spyder / Git-GitHub / Streamlit / Heroku
 
 
 +	DEPLOYMENT URL : https://classification-florale.herokuapp.com/
