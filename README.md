@@ -17,7 +17,7 @@ You will find all the technical informations below ⬇️
 
 +	PROBLEM TYPE : Classification
 
-+	PROJECT TYPE : End-to-End == EDA >> DataViz >> Feature engineering >>  Model training >> Deployment (using Streamlit & Heroku)
++	PROCESS TYPE : ##End-to-End## == EDA >> DataViz >> Feature engineering >>  Model training >> Deployment (using Streamlit & Heroku)
 
 
 +	DATASET USED : include inside the repo’ (it comes from Kaggle)
